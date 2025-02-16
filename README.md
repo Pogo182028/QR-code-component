@@ -37,4 +37,4 @@ I am resuming my study of web programming so there are probably better ways to d
 ## Author
 
 - GitHub - [Pogo182028](https://github.com/Pogo182028)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Pogo182028](https://www.frontendmentor.io/profile/Pogo182028)
